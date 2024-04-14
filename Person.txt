@@ -1,0 +1,22 @@
+[
+ {
+    "Name": "Terst2",
+    "SurName": "Test1",
+    "Date": "2003.02.2",
+    "EmailAdrress": "test1@gmail.com",
+    "MobilePhone": "0631689584",
+    "Location":"Unknown"
+    "Sex": "Male",
+    "Age": "22"
+  },
+  {
+    "Name": "Terst2",
+    "SurName": "Test2",
+    "Date": "2003.02.2",
+    "EmailAdrress": "test@gmail.com",
+    "MobilePhone": "0631689584",
+    "Location":"Unknown"
+    "Sex": "Female",
+    "Age": "22"
+  }
+]
